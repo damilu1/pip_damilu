@@ -8,7 +8,7 @@ setup(
     version="0.0.1",
     license="MIT Licence",
  
-    url="https://github.com/wshzd/NLP/new/master/pip_package/pip_damilu",
+    url="https://github.com/damilu1/pip_damilu",
     author="damilu",
     author_email="w-b-h-s-d@163.com",
  
